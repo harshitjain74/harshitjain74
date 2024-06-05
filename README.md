@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Jain</h1>
 <h3 align="center">A passionate Mobile app developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/13842635/media/06fdccbc7f0e1d47237b588dc0dbdb42.gif">
+<img align="right" alt="Mobile App Development Services.gif" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitjain74&label=Profile%20views&color=0e75b6&style=flat" alt="harshitjain74" /> </p>
 
 - 🔭 I’m currently working on **Flutter Mobile Applications**
